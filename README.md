@@ -1,4 +1,4 @@
-# sqli-form
+# Forum
 
 ## Project setup
 ```
